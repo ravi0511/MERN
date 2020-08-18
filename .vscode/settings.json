@@ -1,3 +1,5 @@
 {
-    "appService.showBuildDuringDeployPrompt": false
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/44decef2-7443-4ecf-bc2b-4ee6211337b7/resourceGroups/MERNDeployment/providers/Microsoft.Web/sites/myfirstexpressapp",
+    "appService.deploySubpath": "expressApp1"
 }
